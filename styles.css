@@ -51,7 +51,7 @@ header .nav_right {
 }
 
 article .article_imges {
-  background-image: url("bg-cover-pc.png");
+  background-image: url("imeges/bg-cover-pc.png");
   background-size: cover;
   height: 400px;
   position: relative;
@@ -148,7 +148,7 @@ article .text_main2 {
 }
 
 article .text_main3 {
-  background-image: url("icon-lead02 (1).png");
+  background-image: url("imeges/icon-lead02 (1).png");
   background-repeat: no-repeat;
   background-position: center top;
   font-size: 19px;
